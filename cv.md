@@ -1,0 +1,51 @@
+# Denis Dedinkin
+*********
+
+##   Contact information:
+
+**email** denisdedinkin@gmail.com
+**********
+
+##   Skills:
+
+* HTML
+* CSS 
+* Git
+
+##   Example Code:
+<header class="header container">
+        <!--<div class="container"> -->
+            <div class="logo"></div>
+            <div class="header-container">
+
+                <div class="header-burger">
+                    <span class="header-burger-lines"></span>
+                </div>
+
+                <nav class="nav">
+                    <ul class="nav-list">                  
+                      <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                      <li class="nav-item"><a href="#portfolio" class="nav-link">Portfolio</a></li>
+                      <li class="nav-item"><a href="#video" class="nav-link">Video</a></li>
+                      <li class="nav-item"><a href="#price" class="nav-link">Price</a></li>
+                      <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    </ul>
+                </nav>
+                
+                <div class="lang">
+                  <span class="lg">en </span>
+                  <Span class="lg">/</Span>
+                  <Span class="lg"> ru</Span>
+                </div> 
+            </div>
+        <!--</div> -->
+    </header>
+    
+##   Education: 
+
+1.  Vitebsk State University of Technology 
+2.  rs school since 2021
+
+## Language:
+
+English level A1
