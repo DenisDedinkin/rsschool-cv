@@ -40,3 +40,12 @@
             </div>
         <!--</div> -->
     </header>
+    
+##   Education: 
+
+1.  Vitebsk State University of Technology 
+2.  rs school since 2021
+
+## Language:
+
+English level A1
