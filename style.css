@@ -1,1 +1,24 @@
-
+html {
+    scroll-behavior: smooth; 
+  }
+* {
+    box-sizing: border-box;
+  }
+body {   
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    /*background-color: #000;*/
+    background-color: coral;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+    /*background-color: rgba(5, 73, 90, 0.575);*/
+    
+}   
